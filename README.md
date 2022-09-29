@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Thanks for visiting my GitHub profile, it's great to meet you!**😊
+**Thanks for visiting my GitHub profile, it's great to meet you!** 😊
 
 - 🔭 I’m currently a postgraduate student of BUAA.
 - 🌱 I'm currently learning MLSys, mainly in Deep Learning Distributed Training, Scheduling and Optimization.
